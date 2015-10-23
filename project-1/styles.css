@@ -24,3 +24,8 @@ h1 {
 a {
   display: inline-block;
 }
+
+.thumbnail {
+  height: 280px;
+  width: 370px;
+}
